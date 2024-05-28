@@ -6,7 +6,6 @@
   "scripts": {
     "build": "babel src -d lib",
     "dev": "nodemon"
-    
   },
   "author": {
     "name": "Ilan Santos",
@@ -31,5 +30,4 @@
     "sequelize-cli": "^6.6.2",
     "sucrase": "^3.35.0"
   }
-  
 }
